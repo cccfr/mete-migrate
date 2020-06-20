@@ -1,2 +1,2 @@
 # mete-migrate
-tool to migrate all data from one mete instance to another (ids not retained)
+tool to migrate drinks and users from one mete instance to another
